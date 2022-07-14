@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: users
+
+server:
+  port: 0
+
+user:
+  role: TestRole
